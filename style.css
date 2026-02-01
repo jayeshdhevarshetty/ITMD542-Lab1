@@ -3,8 +3,8 @@ body
 {
   margin:0;
   font-family: Arial, Helvetica, sans-serif;
-  background:#120c2a;
-  color:#e5e7eb;
+  background:#110b2a;
+  color:#e3e5eb;
   line-height:1.5;
 }
 
@@ -133,7 +133,7 @@ color:#cce0f9;
 
 .links{display:flex;gap:10px;flex-wrap:wrap}
 .btn{
-background:#3e84f4;
+background:#4286f3;
 color:#081325;
 border:none;
 padding:10px 14px;
@@ -265,7 +265,7 @@ width:100%;
 padding:10px 10px;
 border-radius:10px;
 border:1px solid rgba(255, 255, 255, 0.14);
-background:rgba(0,0,0,.18);
+background:rgba(11, 11, 11, 0.18);
 color:#e3e6e8;
 font:inherit;
 outline:none;
@@ -281,7 +281,7 @@ textarea{resize:vertical}
 
 .contactLine{
 margin-top:10px;
-color:#889ab5;
+color:#8b9fbe;
 display:flex;
 gap:8px;
 flex-wrap:wrap;
